@@ -40,6 +40,7 @@ The popup UI displays the breakdown of positive, neutral, and negative comments 
 
 ### Important Note
 
+<<<<<<< HEAD
 For security reasons, the API key in this repository is hidden. If you would like to test the extension locally, you'll need to replace the placeholders in the code with your own API key.
 
 - `YOUR_YOUTUBE_API_KEY`: Replace this with your YouTube API key.
